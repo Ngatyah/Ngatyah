@@ -69,9 +69,9 @@
 
 ###
 
-<div align="center">
-<p align="left">I  do Hard Things</p>
-</div>
+
+<p align="center">I  do Hard Things</p>
+
 
 ###
 ###
