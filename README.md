@@ -36,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
