@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ngatyah and I'm a Backend Developer, from Kenya</h2>
+<h2 align="left">Hi 👋! My name is 👑Ngatyah and I'm a Backend Developer, from Kenya</h2>
 
 ###
 
